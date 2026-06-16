@@ -1,0 +1,25 @@
+# Market Canvas AI
+
+> Free, plain-English investing education + Sharia-compliant (halal) stock screening for the Pakistan Stock Exchange (PSX) and US markets.
+
+## Learn (beginner guides)
+- [What Is a Stock (Share)? A Beginner's Guide](https://market-canvas-content.pages.dev/learn/what-is-a-stock-share/)
+- [How Does the Stock Market Work? (Beginner Guide)](https://market-canvas-content.pages.dev/learn/how-does-the-stock-market-work/)
+- [PSX vs US Stock Market: What's the Difference?](https://market-canvas-content.pages.dev/learn/psx-vs-us-stock-market/)
+- [What Is a Stock Index? KSE-100 &amp; KMI-30 Explained](https://market-canvas-content.pages.dev/learn/what-is-a-stock-index-kse-100-kmi-30/)
+- [Risk and Diversification in Investing Explained](https://market-canvas-content.pages.dev/learn/risk-and-diversification-explained/)
+- [How Do You Make Money From Stocks?](https://market-canvas-content.pages.dev/learn/how-you-make-money-from-stocks/)
+- [What Is Fundamental Analysis? Beginner's Guide](https://market-canvas-content.pages.dev/learn/what-is-fundamental-analysis/)
+- [What Is EPS (Earnings Per Share)? Simple Guide](https://market-canvas-content.pages.dev/learn/what-is-eps-earnings-per-share/)
+- [What Is a P/E Ratio (and What's a Good One)?](https://market-canvas-content.pages.dev/learn/what-is-pe-ratio/)
+- [What Is Market Capitalization (Market Cap)?](https://market-canvas-content.pages.dev/learn/what-is-market-cap/)
+- [What Is Technical Analysis? A Beginner's Guide](https://market-canvas-content.pages.dev/learn/what-is-technical-analysis/)
+- [How to Read a Stock Chart (Step by Step)](https://market-canvas-content.pages.dev/learn/how-to-read-a-stock-chart/)
+- [What Does Halal Investing Actually Mean?](https://market-canvas-content.pages.dev/learn/what-is-halal-investing/)
+- [What Makes a Stock Sharia-Compliant (Halal)?](https://market-canvas-content.pages.dev/learn/what-makes-a-stock-halal/)
+
+## Halal stock screening
+- [Halal stocks on the PSX (full KMI list)](https://market-canvas-content.pages.dev/halal-stocks-psx/)
+
+## About
+Sharia screening: AAOIFI / KMI All-Share. Markets: PSX + US. Educational, not financial advice.
