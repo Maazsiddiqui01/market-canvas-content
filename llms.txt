@@ -1,12 +1,20 @@
 # Market Canvas AI
 
-> Free, plain-English investing education + Sharia-compliant (halal) stock screening for the Pakistan Stock Exchange (PSX) and US markets.
+> Free, plain-English investing education + Sharia-compliant (halal) stock screening for the Pakistan Stock Exchange (PSX) and US markets. Beginner-first, real examples, a picture for every idea.
+
+## Topic hubs
+- [Investing Basics](https://learn.marketcanvasai.com/learn/investing-basics/): Start here — what a share is, how the market works, and how to begin.
+- [Fundamental Analysis](https://learn.marketcanvasai.com/learn/fundamental-analysis/): Is a company worth its price? Read the numbers in plain English.
+- [Technical Analysis](https://learn.marketcanvasai.com/learn/technical-analysis/): Read charts, trends, and indicators — for absolute beginners.
+- [Halal Investing](https://learn.marketcanvasai.com/learn/halal-investing/): What makes a stock Sharia-compliant, and how to invest the halal way.
+- [Investing Books](https://learn.marketcanvasai.com/learn/investing-books/): Timeless lessons from the world's best investing books — in plain English.
+- [Personal Finance](https://learn.marketcanvasai.com/learn/personal-finance/): Budgeting, saving, debt, and growing your money — the foundations everyone needs.
 
 ## Learn (beginner guides)
 - [What Is a Stock (Share)? A Beginner's Guide](https://learn.marketcanvasai.com/learn/what-is-a-stock-share/)
 - [How Does the Stock Market Work? (Beginner Guide)](https://learn.marketcanvasai.com/learn/how-does-the-stock-market-work/)
 - [PSX vs US Stock Market: What's the Difference?](https://learn.marketcanvasai.com/learn/psx-vs-us-stock-market/)
-- [What Is a Stock Index? KSE-100 &amp; KMI-30 Explained](https://learn.marketcanvasai.com/learn/what-is-a-stock-index-kse-100-kmi-30/)
+- [What Is a Stock Index? KSE-100 & KMI-30 Explained](https://learn.marketcanvasai.com/learn/what-is-a-stock-index-kse-100-kmi-30/)
 - [Risk and Diversification in Investing Explained](https://learn.marketcanvasai.com/learn/risk-and-diversification-explained/)
 - [How Do You Make Money From Stocks?](https://learn.marketcanvasai.com/learn/how-you-make-money-from-stocks/)
 - [What Is Fundamental Analysis? Beginner's Guide](https://learn.marketcanvasai.com/learn/what-is-fundamental-analysis/)
@@ -66,6 +74,8 @@
 
 ## Halal stock screening
 - [Halal stocks on the PSX (full KMI list)](https://learn.marketcanvasai.com/halal-stocks-psx/)
+- [This week's Sharia-compliant picks](https://learn.marketcanvasai.com/stock-picks/)
+- [Halal investing blog](https://learn.marketcanvasai.com/blog/)
 
 ## About
-Sharia screening: AAOIFI / KMI All-Share. Markets: PSX + US. Educational, not financial advice.
+Sharia screening follows AAOIFI-style rules via the KMI All-Share Index. Markets: PSX + US. Educational, not financial advice. More: https://learn.marketcanvasai.com/about/
