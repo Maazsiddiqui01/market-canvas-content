@@ -117,5 +117,10 @@
 - [This week's Sharia-compliant picks](https://learn.marketcanvasai.com/stock-picks/)
 - [Halal investing blog](https://learn.marketcanvasai.com/blog/)
 
+## Free tools (calculators)
+- [Zakat calculator](https://learn.marketcanvasai.com/tools/zakat-calculator/)
+- [Pakistan income tax calculator 2025-26](https://learn.marketcanvasai.com/tools/income-tax-calculator-pakistan/)
+- [Investment growth calculator](https://learn.marketcanvasai.com/tools/investment-calculator/)
+
 ## About
 Sharia screening follows AAOIFI-style rules via the KMI All-Share Index. Markets: PSX + US. Educational, not financial advice. More: https://learn.marketcanvasai.com/about/
