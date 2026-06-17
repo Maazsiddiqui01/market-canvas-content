@@ -120,6 +120,9 @@
 ## Free tools (calculators)
 - [Zakat calculator](https://learn.marketcanvasai.com/tools/zakat-calculator/)
 - [Pakistan income tax calculator 2025-26](https://learn.marketcanvasai.com/tools/income-tax-calculator-pakistan/)
+- [Net worth calculator](https://learn.marketcanvasai.com/tools/net-worth-calculator/)
+- [Emergency fund calculator](https://learn.marketcanvasai.com/tools/emergency-fund-calculator/)
+- [Loan & car financing calculator (Pakistan)](https://learn.marketcanvasai.com/tools/loan-calculator-pakistan/)
 - [Investment growth calculator](https://learn.marketcanvasai.com/tools/investment-calculator/)
 
 ## About
