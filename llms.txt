@@ -145,6 +145,12 @@
 - [What Is a Provident Fund? Retirement Basics | Market Canvas AI](https://learn.marketcanvasai.com/learn/what-is-a-provident-fund/)
 - [What Is Takaful? Islamic Insurance | Market Canvas AI](https://learn.marketcanvasai.com/learn/what-is-takaful/)
 - [What Is Gratuity? End-of-Service Pay | Market Canvas AI](https://learn.marketcanvasai.com/learn/what-is-gratuity/)
+- [Income Tax Slabs in Pakistan (Salaried) | Market Canvas AI](https://learn.marketcanvasai.com/learn/income-tax-slabs-in-pakistan/)
+- [What Is a Pay Order? Guide for Pakistan | Market Canvas AI](https://learn.marketcanvasai.com/learn/what-is-a-pay-order/)
+- [What Is an IBAN and What Is a SWIFT Code? | Market Canvas AI](https://learn.marketcanvasai.com/learn/what-is-an-iban-and-swift-code/)
+- [Vehicle Insurance in Pakistan Guide | Market Canvas AI](https://learn.marketcanvasai.com/learn/vehicle-insurance-in-pakistan/)
+- [What Is a Current Account vs Savings Account? | Market Canvas AI](https://learn.marketcanvasai.com/learn/current-account-vs-savings-account/)
+- [What Is Liquidity? Why It Matters | Market Canvas AI](https://learn.marketcanvasai.com/learn/what-is-liquidity/)
 
 ## Halal stock screening
 - [Halal stocks on the PSX (full KMI list)](https://learn.marketcanvasai.com/halal-stocks-psx/)
